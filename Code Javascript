@@ -27,3 +27,4 @@ player.onChat("run", function () {
     )
     gameplay.setGameRule(PV_P, true)
 })
+
